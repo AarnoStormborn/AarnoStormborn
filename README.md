@@ -1,4 +1,4 @@
-### Hi there 🫡
+### Hi there ✌🏻
 #### I am Harsh Singh, aspiring data scientist and backend developer from Mumbai, India
 
 - 👨‍💻 I am currently
