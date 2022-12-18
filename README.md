@@ -23,7 +23,7 @@
 * <a href="https://github.com/AarnoStormborn/CurrencyConverterGUI">Currency Converter</a>
 * <a href="https://github.com/AarnoStormborn/TreasureHunter">Treasure Hunter</a>
 
-📫 How to reach me: ...
+📫 How to reach me:
 * <a href="https://www.kaggle.com/harshsingh2209">Kaggle</a>
 * <a href="https://harshsingh22.pythonanywhere.com/">Portfolio</a>
 * <a href="https://www.linkedin.com/in/harsh-singh-4428241b4/">LinkedIn</a>
