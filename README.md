@@ -28,4 +28,4 @@
 * <a href="https://harshsingh22.pythonanywhere.com/">Portfolio</a>
 * <a href="https://www.linkedin.com/in/harsh-singh-4428241b4/">LinkedIn</a>
 
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarnoStormborn)](https://github.com/AarnoStormborn/github-readme-stats)
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarnoStormborn&theme=radical)](https://github.com/AarnoStormborn/github-readme-stats)
