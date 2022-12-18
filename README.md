@@ -1,7 +1,7 @@
 ### Hi there ✌🏻
 #### I am Harsh Singh, aspiring data scientist and backend developer from Mumbai, India
 
-- 👨‍💻 I am currently
+👨‍💻 I am currently
 * A student of Data Science at NMIMS Mumbai
 * A Python Development intern at Genius Vision Digital
 
