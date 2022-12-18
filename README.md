@@ -1,6 +1,8 @@
 ### Hi there ✌🏻
 #### I am Harsh Singh, aspiring data scientist and backend developer from Mumbai, India
 
+[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=AarnoStormborn&theme=radical)](https://github.com/AarnoStormborn/github-readme-stats)
+
 👨‍💻 I am currently
 * A student of Data Science at NMIMS Mumbai
 * A Python Development intern at Genius Vision Digital
