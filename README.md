@@ -16,7 +16,7 @@
 * Natural Language Processing 
 * Server side programming with Golang
 
-📖Projects I'm proud of
+📖 Some of my projects
 * <a href="https://github.com/AarnoStormborn/GenerativeAdversarialNetwork">Generating Brain MRI images to deal with class imbalance using DC-GANs</a>
 * <a href="https://github.com/AarnoStormborn/gamerecommendationsystem">Video Game Recommendation System</a>
 * <a href="https://github.com/AarnoStormborn/theMADproject">Mobile Store</a>
