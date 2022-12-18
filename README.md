@@ -19,7 +19,7 @@
 📖 Some of my projects
 * <a href="https://github.com/AarnoStormborn/GenerativeAdversarialNetwork">Generating Brain MRI images to deal with class imbalance using DC-GANs</a>
 * <a href="https://github.com/AarnoStormborn/gamerecommendationsystem">Video Game Recommendation System</a>
-* * <a href="https://github.com/AarnoStormborn/spotifysentimentanalysis">Spotify Reviews Sentiment Analysis</a>
+* <a href="https://github.com/AarnoStormborn/spotifysentimentanalysis">Spotify Reviews Sentiment Analysis</a>
 * <a href="https://github.com/AarnoStormborn/theMADproject">Mobile Store</a>
 * <a href="https://github.com/AarnoStormborn/CurrencyConverterGUI">Currency Converter</a>
 
