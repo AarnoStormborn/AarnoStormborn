@@ -6,7 +6,7 @@
 * A Python Development intern at Genius Vision Digital
 
 🔭 I’m currently working on
-* Web Application development with Python - DJango
+* Web Application development with Python - Django
 * Computer Vision - Object Detection model and pipeline
 * Generative Adversarial Networks (Research Paper)
 
