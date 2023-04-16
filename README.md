@@ -7,7 +7,8 @@
 
 🔭 I’m currently working on
 * Web Application development with Python - Django
-* Computer Vision - Object Detection model and pipeline
+* Computer Vision - Model Building and Deployment
+* Frontend Development with ReactJS
 * Generative Adversarial Networks (Research Paper)
 
 🌱 I’m currently learning
@@ -15,13 +16,14 @@
 * DevOps and MLops - bringing state of the art solutions to the world
 * Natural Language Processing 
 * Server side programming with Golang
+* MERN stack
 
 📖 Some of my projects
 * <a href="https://github.com/AarnoStormborn/GenerativeAdversarialNetwork">Generating Brain MRI images to deal with class imbalance using DC-GANs</a>
 * <a href="https://github.com/AarnoStormborn/gamerecommendationsystem">Video Game Recommendation System</a>
 * <a href="https://github.com/AarnoStormborn/spotifysentimentanalysis">Spotify Reviews Sentiment Analysis</a>
-* <a href="https://github.com/AarnoStormborn/theMADproject">Mobile Store</a>
-* <a href="https://github.com/AarnoStormborn/CurrencyConverterGUI">Currency Converter</a>
+* <a href="https://github.com/AarnoStormborn/Gesture-Lights">Hand Gesture Lighting Controls</a>
+* <a href="https://github.com/AarnoStormborn/Smoking-Detection">Smoking Detection</a>
 
 
 📫 How to reach me:
