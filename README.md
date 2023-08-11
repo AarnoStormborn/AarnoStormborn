@@ -3,13 +3,13 @@
 
 👨‍💻 I am currently
 * A student of Data Science at NMIMS Mumbai
-* A Python Development intern at Genius Vision Digital
+* A Data Science Intern at Dun & Bradstreet India
 
 🔭 I’m currently working on
-* Web Application development with Python - Django
+* Data Analytics with Apache Spark in Python & SQL
 * Computer Vision - Model Building and Deployment
-* Frontend Development with ReactJS
-* Generative Adversarial Networks (Research Paper)
+* Business & Corporate Finance and Analytics
+* Graph Neural Networks 
 
 🌱 I’m currently learning
 * Implementation of Machine Learning in Business problems
@@ -28,7 +28,7 @@
 
 📫 How to reach me:
 * <a href="https://www.kaggle.com/harshsingh2209">Kaggle</a>
-* <a href="https://harshsingh22.pythonanywhere.com/">Portfolio</a>
+* <a href="https://www.harshsingh.tech/">Portfolio</a>
 * <a href="https://www.linkedin.com/in/harsh-singh-4428241b4/">LinkedIn</a>
 
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarnoStormborn&theme=radical)](https://github.com/AarnoStormborn/github-readme-stats)
