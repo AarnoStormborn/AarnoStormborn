@@ -3,16 +3,18 @@
 
 👨‍💻 I am currently
 * A student of Data Science at NMIMS Mumbai
+* A Data Science Intern at Harman International
 
 🔭 I’m currently working on
 * End to End Machine Learning Projects
+* Computer Vision Problems
 * Software Designing & System Architecture for Machine Learning
 * Problem Solving & Algorithms
 
 🌱 I’m currently learning
 * Implementation of Machine Learning in Business problems
 * DevOps and MLops - bringing state of the art solutions to the world
-* Natural Language Processing 
+* Generative AI & LLM based technologies
 * Server side programming with Golang
 * Software Engineering and Design Principles
 
