@@ -6,14 +6,12 @@
 
 🔭 I’m currently working on
 * AI Agents - Research & Implementation
-* Forecasting with LLMs 
 * Software Designing & System Architecture for Generative AI
 * Developing Graph based solutions for LLMs and Agents
 
 🌱 I’m currently learning
 * Fundamentals of Language Modelling - How the largest Models are really built
 * Reinforcement Learning - Showing machines how the world works
-* Quantum (Computing, ML) - I am & I am not XD (superposition humour)
 * Software Engineering and Design Principles
 * Server side programming with Golang (because multitasking with Python 👎🏻) 
 
