@@ -1,3 +1,19 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </br>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/harshsingh9022/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:harshsingh90220@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+    </a>
+    <a href="https://www.kaggle.com/harshsingh2209">
+      <img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle Badge"/>
+    </a>
+  </div>
+</div>
+
 ### Hi there ✌🏻
 #### I am Harsh Singh, Data Scientist from Mumbai, India
 
@@ -7,25 +23,36 @@
 🔭 I’m currently working on
 * AI Agents - Research & Implementation
 * Software Designing & System Architecture for Generative AI
-* Developing Graph based solutions for LLMs and Agents
+* Developing Agent-based solutions for Automation
+* Backend Engineering with Golang 
 
 🌱 I’m currently learning
 * Fundamentals of Language Modelling - How the largest Models are really built
 * Reinforcement Learning - Showing machines how the world works
 * Software Engineering and Design Principles
-* Server side programming with Golang (because multitasking with Python 👎🏻) 
+* Computer Science fundamentals with Python, C & Go
 
-📖 Some of my projects
-* <a href="https://github.com/AarnoStormborn/GenerativeAdversarialNetwork">DCGANs for Class Imbalance problems</a>
-* <a href="https://github.com/AarnoStormborn/anomaly-detection-with-autoencoder">Anomaly Detection with Autoencoders</a>
-* <a href="https://github.com/AarnoStormborn/Attrition-Prediction">End to End Attrition Prediction - ML Lifecycle</a>
-* <a href="https://github.com/AarnoStormborn/Smoking-Detection">Smoking Detection</a>
-* <a href="https://github.com/AarnoStormborn/newsAi">News AI - End to End News Classification & Sentiment Analysis</a>
-* <a href="https://github.com/AarnoStormborn/spotifysentimentanalysis">Spotify Reviews Sentiment Analysis</a>
+### :hammer_and_wrench: Languages and Tools :
 
-📫 How to reach me:
-* <a href="https://www.kaggle.com/harshsingh2209">Kaggle</a>
-* <a href="https://portfoliov2-psi-seven.vercel.app/">Portfolio</a>
-* <a href="https://www.linkedin.com/in/harsh-singh-4428241b4/">LinkedIn</a>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  
+<img src="https://img.icons8.com/?size=100&id=Nts60kQIvGqe&format=png&color=199671" title="OpenAI"  alt="OpenAI" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/?size=100&id=H5H0mqCCr5AV&format=png&color=000000" title="Anthropic" alt="Anthropic" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis " width="40" height="40"/>&nbsp;
 
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarnoStormborn&theme=radical)](https://github.com/AarnoStormborn/github-readme-stats)
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="36" height="36"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</p>
+
+</br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AarnoStormborn&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="my Github Stats"/>
