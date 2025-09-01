@@ -18,13 +18,14 @@
 #### I am Harsh Singh, Data Scientist from Mumbai, India
 
 👨‍💻 I am currently
-* An Applied Data Scientist at Harman DTS
+* An Applied Data Scientist at Harman Tech Services
+* Visiting Faculty at NMIMS teaching Backend Engineering
 
 🔭 I’m currently working on
 * AI Agents - Research & Implementation
 * Software Designing & System Architecture for Generative AI
 * Developing Agent-based solutions for Automation
-* Backend Engineering with Golang 
+* LLM Fine tuning and Knowledge Distillation
 
 🌱 I’m currently learning
 * Fundamentals of Language Modelling - How the largest Models are really built
@@ -37,7 +38,7 @@
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   
