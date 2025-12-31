@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/harshsingh9022/">
@@ -14,31 +13,30 @@
   </div>
 </div>
 
-### Hi there ✌🏻
-#### I am Harsh Singh, Data Scientist from Mumbai, India
+### I am Harsh Singh, Data Scientist from Mumbai, India
 
 👨‍💻 I am currently
-* An Applied Data Scientist at Harman Tech Services
-* Visiting Faculty at NMIMS teaching Backend Engineering
+* An Applied AI Engineer at Tasq
+* Visiting Faculty at NMIMS teaching Applications of ML
 
 🔭 I’m currently working on
 * AI Agents - Research & Implementation
 * Software Designing & System Architecture for Generative AI
 * Developing Agent-based solutions for Automation
-* LLM Fine tuning and Knowledge Distillation
+* Forecasting & Anomaly Detection workflows
 
 🌱 I’m currently learning
 * Fundamentals of Language Modelling - How the largest Models are really built
 * Reinforcement Learning - Showing machines how the world works
 * Software Engineering and Design Principles
-* Computer Science fundamentals with Python, C & Go
+* Designing scalable backend systems
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   
